@@ -24,7 +24,7 @@ namespace CalculatorTest
     public class CalculatorSession
     {
         // Note: append /wd/hub to the URL if you're directing the test at Appium
-        private const string WindowsApplicationDriverUrl = "http://127.0.0.1:4723";
+        private const string WindowsApplicationDriverUrl = "http://127.0.0.1:4723";//0
         private const string CalculatorAppId = @"C:\Program Files (x86)\Microsoft Dynamics AX\60\Retail POS\POS.exe"; /*"{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft Dynamics AX\60\Retail POS\POS.exe";*//*"Microsoft.WindowsCalculator_8wekyb3d8bbwe!App";*/
 
         protected static WindowsDriver<WindowsElement> session;
