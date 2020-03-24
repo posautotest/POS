@@ -22,3 +22,26 @@ C:\Users\Nikita.Anuryev\Downloads\WinAppDriver-master\WinAppDriver-master\Sample
 C:\Users\Nikita.Anuryev\Downloads\WinAppDriver-master\WinAppDriver-master\Samples\C#\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\Nikita.Anuryev\Downloads\WinAppDriver-master\WinAppDriver-master\Samples\C#\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\Nikita.Anuryev\Downloads\WinAppDriver-master\WinAppDriver-master\Samples\C#\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Nikita.Anuryev\Desktop\New folder\POS\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Nikita.Anuryev\Desktop\New folder\POS\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Nikita.Anuryev\Desktop\New folder\POS\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Nikita.Anuryev\Desktop\New folder\POS\bin\Debug\CalculatorTest.dll
+C:\Users\Nikita.Anuryev\Desktop\New folder\POS\bin\Debug\CalculatorTest.pdb
+C:\Users\Nikita.Anuryev\Desktop\New folder\POS\bin\Debug\appium-dotnet-driver.dll
+C:\Users\Nikita.Anuryev\Desktop\New folder\POS\bin\Debug\Castle.Core.dll
+C:\Users\Nikita.Anuryev\Desktop\New folder\POS\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Nikita.Anuryev\Desktop\New folder\POS\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Nikita.Anuryev\Desktop\New folder\POS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nikita.Anuryev\Desktop\New folder\POS\bin\Debug\WebDriver.dll
+C:\Users\Nikita.Anuryev\Desktop\New folder\POS\bin\Debug\WebDriver.Support.dll
+C:\Users\Nikita.Anuryev\Desktop\New folder\POS\bin\Debug\appium-dotnet-driver.xml
+C:\Users\Nikita.Anuryev\Desktop\New folder\POS\bin\Debug\Castle.Core.xml
+C:\Users\Nikita.Anuryev\Desktop\New folder\POS\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Nikita.Anuryev\Desktop\New folder\POS\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Nikita.Anuryev\Desktop\New folder\POS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nikita.Anuryev\Desktop\New folder\POS\bin\Debug\WebDriver.xml
+C:\Users\Nikita.Anuryev\Desktop\New folder\POS\bin\Debug\WebDriver.Support.xml
+C:\Users\Nikita.Anuryev\Desktop\New folder\POS\obj\Debug\CalculatorTest.csprojAssemblyReference.cache
+C:\Users\Nikita.Anuryev\Desktop\New folder\POS\obj\Debug\CalculatorTest.csproj.CopyComplete
+C:\Users\Nikita.Anuryev\Desktop\New folder\POS\obj\Debug\CalculatorTest.dll
+C:\Users\Nikita.Anuryev\Desktop\New folder\POS\obj\Debug\CalculatorTest.pdb
